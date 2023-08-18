@@ -7,3 +7,5 @@
 - grids inside of grids.
 - responsive component without media queries.
 - builidng a small component using CSS Grid.
+- Overwarpping grid items.
+- flexbox is a better tool in certain situations.
