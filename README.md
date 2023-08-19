@@ -12,3 +12,5 @@
 - Building a rather complex component using a mix of CSS grid properties, overlapping and flexbox.
 - Creating a complex grid-looking gallery.
 - Using Object-fit together with images for grid items.
+- Managing vertical spacing in a responsive layout using CSS Grid techniques.
+- How to use ::before and ::after as grid items.
